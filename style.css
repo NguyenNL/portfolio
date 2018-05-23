@@ -41,7 +41,7 @@ body {
   height: 100vh; /*height to 100% of view height*/
   background: black; /*background color to blue*/
   margin-bottom: 0; /*no bottom margin*/
-
+  position: relative;
   display: flex;
   flex-direction: column;
 }
